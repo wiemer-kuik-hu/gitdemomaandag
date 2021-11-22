@@ -2,7 +2,8 @@
 #Demo
 ###lijstje
 f
-f
-f
+*f
+*f
 
 lijstje 1
+
