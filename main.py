@@ -7,5 +7,7 @@
 if __name__ == '__main__':
     print('Hi Wiemer')
 
+    print('Hi second chance')
+
 
 
